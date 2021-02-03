@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 
 
-public class RunPatientSystem extends OutPatient {
+public class RunPatientSystem{
 
 	public  static void main(String args[]) {
 		

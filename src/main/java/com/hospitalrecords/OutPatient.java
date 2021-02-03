@@ -7,7 +7,7 @@ public class OutPatient {
 	
 	private String patientName;
 	private String Location;
-	Date visitDate;
+	private Date visitDate;
 
 	public OutPatient() {
 		this.patientName = "";
