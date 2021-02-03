@@ -17,8 +17,6 @@ public class OutPatient {
 	
 	Calendar calendar = Calendar.getInstance();
 	
-	
-
 	public OutPatient(String name, String location, Date visitationDate) {
 		this.patientName = name;
 		this.Location = location;
